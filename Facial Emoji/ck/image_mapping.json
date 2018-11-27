@@ -1,0 +1,4458 @@
+{
+    "S005_001_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S005_001_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S005_001_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S010_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S010_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S010_002_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S010_004_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S010_004_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S010_004_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S010_006_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S010_006_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S010_006_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S011_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S011_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S011_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S011_002_00000022": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S011_002_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S011_002_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S011_003_00000014": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S011_003_00000012": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S011_003_00000010": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S011_004_00000021": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S011_004_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S011_004_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S011_005_00000020": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S011_005_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S011_005_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S011_006_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S011_006_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S011_006_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S014_001_00000029": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S014_001_00000027": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S014_001_00000025": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S014_002_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S014_002_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S014_002_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S014_003_00000030": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S014_003_00000028": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S014_003_00000026": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S014_005_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S014_005_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S014_005_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S022_001_00000030": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S022_001_00000028": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S022_001_00000026": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S022_005_00000032": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S022_005_00000030": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S022_005_00000028": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S022_006_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S022_006_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S022_006_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S026_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S026_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S026_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S026_002_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S026_002_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S026_002_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S026_003_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S026_003_00000013": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S026_003_00000011": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S026_006_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S026_006_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S026_006_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S028_001_00000024": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S028_001_00000022": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S028_001_00000020": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S029_001_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S029_001_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S029_001_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S032_001_00000022": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S032_001_00000020": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S032_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S032_003_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S032_003_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S032_003_00000013": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S032_004_00000014": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S032_004_00000012": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S032_004_00000010": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S032_005_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S032_005_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S032_005_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S032_006_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S032_006_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S032_006_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S034_001_00000029": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S034_001_00000027": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S034_001_00000025": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S034_003_00000027": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S034_003_00000025": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S034_003_00000023": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S034_005_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S034_005_00000008": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S034_005_00000006": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S035_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S035_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S035_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S035_005_00000019": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S035_005_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S035_005_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S035_006_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S035_006_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S035_006_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S037_001_00000020": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S037_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S037_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S037_003_00000022": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S037_003_00000020": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S037_003_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S037_006_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S037_006_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S037_006_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S042_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S042_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S042_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S042_002_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S042_002_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S042_002_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S042_004_00000020": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S042_004_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S042_004_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S042_006_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S042_006_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S042_006_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S044_001_00000024": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S044_001_00000022": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S044_001_00000020": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S044_003_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S044_003_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S044_003_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S044_006_00000019": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S044_006_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S044_006_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S045_004_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S045_004_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S045_004_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S045_005_00000030": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S045_005_00000028": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S045_005_00000026": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S046_001_00000025": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S046_001_00000023": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S046_001_00000021": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S046_002_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S046_002_00000004": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S046_002_00000002": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S046_003_00000016": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S046_003_00000014": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S046_003_00000012": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S046_004_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S046_004_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S046_004_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S050_001_00000017": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S050_001_00000015": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S050_001_00000013": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S050_002_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S050_002_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S050_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S050_004_00000021": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S050_004_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S050_004_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S050_006_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S050_006_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S050_006_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S051_002_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S051_002_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S051_002_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S051_003_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S051_003_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S051_003_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S052_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S052_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S052_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S052_004_00000033": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S052_004_00000031": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S052_004_00000029": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S052_006_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S052_006_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S052_006_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S053_001_00000023": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S053_001_00000021": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S053_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S053_004_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S053_004_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S053_004_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S054_002_00000015": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S054_002_00000013": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S054_002_00000011": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S054_003_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S054_003_00000005": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S054_003_00000003": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S054_004_00000024": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S054_004_00000022": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S054_004_00000020": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S055_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S055_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S055_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S055_003_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S055_003_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S055_003_00000005": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S055_004_00000028": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S055_004_00000026": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S055_004_00000024": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S055_005_00000045": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S055_005_00000043": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S055_005_00000041": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S055_006_00000008": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S055_006_00000006": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S055_006_00000004": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S056_002_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S056_002_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S056_002_00000006": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S056_003_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S056_003_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S056_003_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S056_004_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S056_004_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S056_004_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S057_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S057_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S057_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S057_003_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S057_003_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S057_003_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S057_006_00000033": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S057_006_00000031": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S057_006_00000029": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S058_001_00000020": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S058_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S058_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S058_005_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S058_005_00000008": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S058_005_00000006": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S058_006_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S058_006_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S058_006_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S059_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S059_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S059_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S059_002_00000017": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S059_002_00000015": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S059_002_00000013": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S060_002_00000026": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S060_002_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S060_002_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S060_003_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S060_003_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S060_003_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S060_005_00000021": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S060_005_00000019": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S060_005_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S061_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S061_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S061_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S061_002_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S061_002_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S061_002_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S061_004_00000022": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S061_004_00000020": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S061_004_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S062_001_00000017": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S062_001_00000015": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S062_001_00000013": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S062_002_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S062_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S062_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S062_004_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S062_004_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S062_004_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S062_005_00000029": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S062_005_00000027": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S062_005_00000025": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S063_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S063_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S063_001_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S063_002_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S063_002_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S063_002_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S064_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S064_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S064_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S064_003_00000025": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S064_003_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S064_003_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S064_004_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S064_004_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S064_004_00000010": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S065_002_00000022": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S065_002_00000020": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S065_002_00000018": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S065_003_00000022": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S065_003_00000020": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S065_003_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S065_004_00000028": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S065_004_00000026": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S065_004_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S065_005_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S065_005_00000006": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S065_005_00000004": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S066_002_00000022": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S066_002_00000020": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S066_002_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S066_003_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S066_003_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S066_003_00000008": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S066_004_00000010": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S066_004_00000008": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S066_004_00000006": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S066_005_00000011": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S066_005_00000009": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S066_005_00000007": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S067_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S067_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S067_002_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S067_004_00000023": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S067_004_00000021": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S067_004_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S067_005_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S067_005_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S067_005_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S067_006_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S067_006_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S067_006_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S068_002_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S068_002_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S068_002_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S068_003_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S068_003_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S068_003_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S068_004_00000010": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S068_004_00000008": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S068_004_00000006": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S068_005_00000021": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S068_005_00000019": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S068_005_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S069_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S069_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S069_002_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S069_003_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S069_003_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S069_003_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S069_004_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S069_004_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S069_004_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S070_002_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S070_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S070_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S070_003_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S070_003_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S070_003_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S070_005_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S070_005_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S070_005_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S071_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S071_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S071_001_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S071_002_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S071_002_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S071_002_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S071_004_00000028": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S071_004_00000026": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S071_004_00000024": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S071_005_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S071_005_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S071_005_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S071_006_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S071_006_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S071_006_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S072_005_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S072_005_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S072_005_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S072_006_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S072_006_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S072_006_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S073_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S073_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S073_001_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S073_006_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S073_006_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S073_006_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S074_001_00000020": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S074_001_00000018": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S074_001_00000016": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S074_002_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S074_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S074_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S074_004_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S074_004_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S074_004_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S074_005_00000043": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S074_005_00000041": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S074_005_00000039": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S075_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S075_002_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S075_002_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S075_005_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S075_005_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S075_005_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S075_006_00000025": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S075_006_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S075_006_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S075_008_00000012": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S075_008_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S075_008_00000008": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S076_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S076_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S076_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S076_005_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S076_005_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S076_005_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S076_006_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S076_006_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S076_006_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S077_001_00000028": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S077_001_00000026": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S077_001_00000024": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S077_006_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S077_006_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S077_006_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S078_001_00000033": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S078_001_00000031": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S078_001_00000029": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S078_004_00000027": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S078_004_00000025": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S078_004_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S078_007_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S078_007_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S078_007_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S079_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S079_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S079_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S079_002_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S079_002_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S079_002_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S079_004_00000026": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S079_004_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S079_004_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S080_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S080_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S080_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S080_005_00000013": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S080_005_00000011": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S080_005_00000009": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S080_008_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S080_008_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S080_008_00000005": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S081_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S081_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S081_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S081_002_00000024": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S081_002_00000022": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S081_002_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S081_008_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S081_008_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S081_008_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S082_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S082_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S082_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S082_005_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S082_005_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S082_005_00000013": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S082_007_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S082_007_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S082_007_00000006": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S083_003_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S083_003_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S083_003_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S084_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S084_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S084_001_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S084_002_00000023": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S084_002_00000021": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S084_002_00000019": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S085_002_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S085_002_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S085_002_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S085_003_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S085_003_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S085_003_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S085_004_00000017": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S085_004_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S085_004_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S086_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S086_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S086_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S086_002_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S086_002_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S086_002_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S087_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S087_001_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S087_001_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S087_004_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S087_004_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S087_004_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S087_005_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S087_005_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S087_005_00000008": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S087_007_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S087_007_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S087_007_00000012": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S088_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S088_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S088_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S088_004_00000020": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S088_004_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S088_004_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S089_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S089_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S089_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S089_002_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S089_002_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S089_002_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S089_003_00000036": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S089_003_00000034": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S089_003_00000032": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S090_002_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S090_002_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S090_002_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S090_006_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S090_006_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S090_006_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S090_007_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S090_007_00000012": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S090_007_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S091_001_00000015": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S091_001_00000013": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S091_001_00000011": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S091_003_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S091_003_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S091_003_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S092_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S092_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S092_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S092_003_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S092_003_00000012": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S092_003_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S092_004_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S092_004_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S092_004_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S093_001_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S093_001_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S093_001_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S093_004_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S093_004_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S093_004_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S094_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S094_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S094_001_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S094_004_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S094_004_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S094_004_00000008": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S095_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S095_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S095_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S095_006_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S095_006_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S095_006_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S095_007_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S095_007_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S095_007_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S095_010_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S095_010_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S095_010_00000010": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S096_001_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S096_001_00000005": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S096_001_00000003": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S096_003_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S096_003_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S096_003_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S096_004_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S096_004_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S096_004_00000007": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S097_001_00000021": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S097_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S097_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S097_004_00000030": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S097_004_00000028": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S097_004_00000026": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S097_006_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S097_006_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S097_006_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S098_003_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S098_003_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S098_003_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S098_004_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S098_004_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S098_004_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S099_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S099_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S099_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S099_004_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S099_004_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S099_004_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S099_007_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S099_007_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S099_007_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S100_002_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S100_002_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S100_002_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S100_005_00000023": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S100_005_00000021": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S100_005_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S100_006_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S100_006_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S100_006_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S101_002_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S101_002_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S101_002_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S102_002_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S102_002_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S102_002_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S102_003_00000016": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S102_003_00000014": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S102_003_00000012": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S102_009_00000015": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S102_009_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S102_009_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S105_008_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S105_008_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S105_008_00000006": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S106_002_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S106_002_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S106_002_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S106_004_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S106_004_00000006": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S106_004_00000004": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S106_006_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S106_006_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S106_006_00000007": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S107_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S107_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S107_001_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S107_005_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S107_005_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S107_005_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S108_005_00000022": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S108_005_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S108_005_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S108_006_00000020": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S108_006_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S108_006_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S108_008_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S108_008_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S108_008_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S109_003_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S109_003_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S109_003_00000013": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S109_005_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S109_005_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S109_005_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S109_006_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S109_006_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S109_006_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S110_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S110_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S110_001_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S111_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S111_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S111_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S111_006_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S111_006_00000008": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S111_006_00000006": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S111_007_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S111_007_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S111_007_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S112_005_00000017": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S112_005_00000015": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S112_005_00000013": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S113_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S113_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S113_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S113_003_00000015": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S113_003_00000013": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S113_003_00000011": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S113_008_00000023": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S113_008_00000021": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S113_008_00000019": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S114_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S114_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S114_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S114_006_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S114_006_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S114_006_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S115_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S115_001_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S115_001_00000004": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S115_004_00000017": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S115_004_00000015": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S115_004_00000013": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S115_008_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S115_008_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S115_008_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S116_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S116_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S116_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S116_006_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S116_006_00000005": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S116_006_00000003": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S116_007_00000017": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S116_007_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S116_007_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S117_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S117_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S117_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S117_003_00000014": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S117_003_00000012": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S117_003_00000010": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S117_006_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S117_006_00000008": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S117_006_00000006": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S119_001_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S119_001_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S119_001_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S119_003_00000024": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S119_003_00000022": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S119_003_00000020": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S119_008_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S119_008_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S119_008_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S122_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S122_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S122_001_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S124_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S124_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S124_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S124_003_00000011": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S124_003_00000009": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S124_003_00000007": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S124_006_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S124_006_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S124_006_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S124_007_00000024": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S124_007_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S124_007_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S125_001_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S125_001_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S125_001_00000010": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S125_005_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S125_005_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S125_005_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S125_006_00000022": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S125_006_00000020": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S125_006_00000018": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S125_007_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S125_007_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S125_007_00000005": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S125_008_00000010": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S125_008_00000008": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S125_008_00000006": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S126_004_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S126_004_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S126_004_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S126_008_00000029": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S126_008_00000027": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S126_008_00000025": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S127_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S127_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S127_001_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S127_004_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S127_004_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S127_004_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S127_010_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S127_010_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S127_010_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S128_004_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S128_004_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S128_004_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S128_011_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S128_011_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S128_011_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S129_002_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S129_002_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S129_002_00000007": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S129_006_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S129_006_00000008": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S129_006_00000006": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S129_011_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S129_011_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S129_011_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S129_012_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S129_012_00000009": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S129_012_00000007": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S130_001_00000018": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S130_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S130_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S130_007_00000020": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S130_007_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S130_007_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S130_009_00000019": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S130_009_00000017": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S130_009_00000015": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S130_012_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S130_012_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S130_012_00000007": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S130_013_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S130_013_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S130_013_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S131_001_00000016": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S131_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S131_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S131_003_00000024": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S131_003_00000022": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S131_003_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S131_006_00000022": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S131_006_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S131_006_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S131_010_00000018": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S131_010_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S131_010_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S132_002_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S132_002_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S132_002_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S132_003_00000023": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S132_003_00000021": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S132_003_00000019": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S132_005_00000016": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S132_005_00000014": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S132_005_00000012": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S132_006_00000023": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S132_006_00000021": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S132_006_00000019": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S132_008_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S132_008_00000008": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S132_008_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S133_003_00000047": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S133_003_00000045": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S133_003_00000043": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S133_009_00000006": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S133_009_00000004": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S133_009_00000002": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S133_010_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S133_010_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S133_010_00000010": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S134_003_00000011": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S134_003_00000009": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S134_003_00000007": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S134_004_00000015": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S134_004_00000013": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S134_004_00000011": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S134_008_00000013": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S134_008_00000011": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S134_008_00000009": {
+        "number": 3,
+        "emotion": "disgust"
+    },
+    "S135_001_00000039": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S135_001_00000037": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S135_001_00000035": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S135_012_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S135_012_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S135_012_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S136_001_00000019": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S136_001_00000017": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S136_001_00000015": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S136_003_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S136_003_00000012": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S136_003_00000010": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S136_005_00000010": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S136_005_00000008": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S136_005_00000006": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S136_006_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S136_006_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S136_006_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S137_001_00000014": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S137_001_00000012": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S137_001_00000010": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S137_005_00000027": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S137_005_00000025": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S137_005_00000023": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S137_011_00000020": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S137_011_00000018": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S137_011_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S138_001_00000012": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S138_001_00000010": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S138_001_00000008": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S138_004_00000013": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S138_004_00000011": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S138_004_00000009": {
+        "number": 7,
+        "emotion": "surprise"
+    },
+    "S138_005_00000016": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S138_005_00000014": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S138_005_00000012": {
+        "number": 5,
+        "emotion": "happy"
+    },
+    "S138_007_00000011": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S138_007_00000009": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S138_007_00000007": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S138_008_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S138_008_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S138_008_00000005": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S139_002_00000013": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S139_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S139_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S147_002_00000013": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S147_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S147_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S148_002_00000015": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S148_002_00000013": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S148_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S149_002_00000013": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S149_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S149_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S151_002_00000029": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S151_002_00000027": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S151_002_00000025": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S154_002_00000013": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S154_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S154_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S155_002_00000012": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S155_002_00000010": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S155_002_00000008": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S156_002_00000021": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S156_002_00000019": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S156_002_00000017": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S157_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S157_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S157_002_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S158_002_00000011": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S158_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S158_002_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S160_006_00000010": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S160_006_00000008": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S160_006_00000006": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S501_001_00000067": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S501_001_00000065": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S501_001_00000063": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S501_004_00000056": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S501_004_00000054": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S501_004_00000052": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S501_006_00000041": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S501_006_00000039": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S501_006_00000037": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S502_001_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S502_001_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S502_001_00000012": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S502_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S502_002_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S502_002_00000005": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S502_004_00000052": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S502_004_00000050": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S502_004_00000048": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S503_001_00000071": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S503_001_00000069": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S503_001_00000067": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S503_002_00000008": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S503_002_00000006": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S503_002_00000004": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S503_006_00000020": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S503_006_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S503_006_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S504_001_00000022": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S504_001_00000020": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S504_001_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S504_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S504_002_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S504_002_00000005": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S504_004_00000015": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S504_004_00000013": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S504_004_00000011": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S504_006_00000018": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S504_006_00000016": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S504_006_00000014": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S505_002_00000021": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S505_002_00000019": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S505_002_00000017": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S505_006_00000019": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S505_006_00000017": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S505_006_00000015": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S506_001_00000040": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S506_001_00000038": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S506_001_00000036": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S506_002_00000009": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S506_002_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S506_002_00000005": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S506_004_00000038": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S506_004_00000036": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S506_004_00000034": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S506_006_00000042": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S506_006_00000040": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S506_006_00000038": {
+        "number": 6,
+        "emotion": "sadness"
+    },
+    "S895_002_00000007": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S895_002_00000005": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S895_002_00000003": {
+        "number": 2,
+        "emotion": "contempt"
+    },
+    "S999_001_00000018": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S999_001_00000016": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S999_001_00000014": {
+        "number": 1,
+        "emotion": "anger"
+    },
+    "S999_003_00000055": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S999_003_00000053": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S999_003_00000051": {
+        "number": 4,
+        "emotion": "fear"
+    },
+    "S005_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S005_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S010_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S011_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S011_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S011_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S011_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S014_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S014_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S014_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S014_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S022_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S026_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S028_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S028_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S029_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S029_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S032_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S032_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S032_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S032_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S034_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S034_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S034_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S034_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S034_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S035_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S037_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S037_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S037_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S037_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S037_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S037_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S042_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S042_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S042_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S042_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S042_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S044_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S044_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S044_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S044_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S044_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S045_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S045_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S045_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S045_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S046_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S046_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S046_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S046_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S046_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S050_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S051_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S051_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S051_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S051_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S051_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S051_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S052_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S052_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S052_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S052_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S052_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S052_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S053_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S053_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S053_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S053_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S053_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S054_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S054_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S054_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S054_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_005_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_005_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_006_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S055_006_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S056_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S056_003_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S056_003_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S056_004_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S056_004_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S057_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S057_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S057_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S057_002_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S058_001_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S058_001_00000002": {
+        "emotion": "neutral",
+        "number": 0
+    },
+    "S058_002_00000001": {
+        "emotion": "neutral",
+        "number": 0
+    }
+}
